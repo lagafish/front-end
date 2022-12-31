@@ -1,0 +1,403 @@
+
+.list-group-item{
+    --bs-list-group-bg:#de744c;
+    --bs-list-group-border:none
+}
+.fa-brands.fa-whatsapp.fa-2x:hover{
+
+ color:#298cfdef!important;
+}
+.fa-brands.fa-instagram.fa-2x:hover{
+
+ color:#298cfdef !important;
+}
+.fa-brands.fa-facebook.fa-2x:hover{
+  color:#298cfdef !important;
+}
+.fa-brands.fa-github.fa-2x:hover{
+
+ color:#298cfdef !important;
+}
+.fa-solid.fa-user-lock.fa-2x:hover{
+
+ color:#fdeb29ef!important;
+}
+ #apdescripcion{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: 100;
+ text-align: left;
+  
+  background-color: #bfd8d2;
+  color:#f9f9f9 ;
+  margin-top: 100px;
+  padding-left: 1%;
+  padding-bottom: 1px;
+  font-size: 14px;
+}
+.descripcion{
+  text-align: left;
+ font-size: 18px;
+}
+#banner{
+  background-image: linear-gradient(#298cfd00,#00000096),
+ url(../PortfolioWeb/assets/Backgrounds/11.jpg);
+   position: relative;
+   width: 100%;
+   height: 65vh;
+   background-repeat: no-repeat;
+   -msn-background-size:cover;
+   -webkit-background-size:cover;
+   -moz-background-size:cover ;
+   background-size:cover;
+   padding-top: 120px;
+   font-size: 34px;
+font-weight: 800;
+   color:#f9f9f9;
+font-style:oblique;
+ text-align: center;
+font-size: 40px;
+ margin-bottom: 0px;
+}
+div.container-fluid{
+  background-color: #141414;
+}
+.presentacion{
+  background-color: #bfd8d2;
+  
+}
+#arg h3,p{
+  text-align: center;
+  color: #141414;
+
+  
+}
+  #fotoperfil{
+    border-radius: 100%;
+    position: relative;
+    bottom: 150px;
+    width:250px ;
+    box-shadow:1px 10px 30px 1px;
+   
+}
+#descripcion{
+  font-weight: 500;
+color: #141414;
+font-size: 15px;
+font-style: italic;
+text-align: left;
+
+}
+.titulo-presentacion{   
+color: #141414;
+padding-top: 50px;
+}
+.modal-body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:50px;
+    margin-bottom: 40px;
+    color:#001419;
+    font-weight: 600;
+}
+.informacioncontacto{
+text-align: left;
+font-size: 18px;
+color: #f9f9f9;
+font-weight: 600;
+padding-left: 5%;
+line-height: 35%;
+margin-top: -120px;
+font-family:monospace;
+padding-bottom: 10px;
+margin-left: -180px;
+}
+.experiencialaboral h1{
+  background-color: #de744c;
+font-weight: 800;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: #141414;
+text-align: center;
+font-size: 50px;
+}
+.trabajo h4{
+text-align: left;
+margin-top: -240px;
+color: #f9f9f9;
+}
+.trabajo p{
+color: #f9f9f9;
+padding-top: 55px;
+font-weight: 300;
+text-align: justify;
+}
+.trabajo{ 
+padding-top: 300px;
+color: #f9f9f9;
+}
+.trabajoash{
+padding-top: 50px;
+color: #f9f9f9;
+text-align: left;
+font-weight: 300;
+}
+.trabajoash p{
+color:#f9f9f9;
+text-align: justify;
+padding-bottom: 25px;
+}
+.sie{
+width: 210px;
+margin-top: 135px;
+margin-left: 200px;
+}
+.sielogo{
+width: 180px;
+margin-top: 150px;
+margin-left: 20px;
+  
+}
+.login{
+padding-top: 150px;
+}
+.registro{
+  padding-top: 63px;
+}
+.ashlogo{
+  padding-top: 129px;
+  border-radius: 200px 200px 100px ;
+  padding-left: 200px;
+  width: 380px;
+
+}
+.ashdibujo{
+padding-top: 120px;
+margin-left: 40px;
+width: 145px;
+}
+.mecanica-dibujo{
+margin-top: 80px;
+width: 140px;
+margin-left: 200px;
+}
+.mecanicalogo{
+margin-left: 25px;
+margin-top: 80px;
+width: 150px;
+}
+.mecanica{
+color: #f9f9f9;
+text-align: justify;
+font-weight: 100;
+  
+}
+.mecanica p{
+color: #f9f9f9;
+text-align: left;
+padding-top: 10px;
+padding-bottom: 50px;
+}
+.mecanica h3{
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.educacion-titulo{
+padding-top:55px;
+padding-bottom: 55px;
+background-color: #bfd8d2;
+color: #141414;
+text-align: center;
+margin-top: 50px;
+}
+.educacion-primaria img{
+margin-left: 150px;
+width: 150px;
+border-radius: 30px 30px 30px 30px;
+}
+.educacion-secundaria img{
+margin-left: 130px;
+width: 208px;
+border-radius: 100px 100px 130px 130px;
+
+}
+.educacion-primaria{
+color: #f9f9f9;
+margin-bottom: 50px;
+}
+.educacion{ 
+background-color: #141414;
+text-align: center;
+color: #f9f9f9;
+padding-bottom: 50px;
+padding-top: 50px;
+}
+.educacion h1{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 800;
+color: #141414;
+background-color: #de744c;
+font-size: 60px;
+}
+.logo-adventista{
+width: 300px;
+border-radius: 200px 200px 200px 200px;
+margin-left: 170px;
+}
+.logo-bachi{
+margin-top: -13px;
+margin-left: 170px;
+width: 220px;
+border-radius: 100px 100px 100px 100px;
+}
+.adventista p{
+font-weight: 200;
+color: #f9f9f9;
+text-align: center;
+}
+.adventista h3{
+text-align:center;
+color: #f9f9f9;
+margin-top: 20px;
+margin-bottom: 35px;
+}
+.logo-datos{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-left: 45px;
+  border-radius: 1000px 1000px 100px 100px ;
+  width: 350px;
+}
+.logo-reparacion{
+margin-top: 50px;
+margin-left: 55px;
+border-radius: 300px 300px 300px 300px;
+width: 270px;
+}
+.logo-utn{
+margin-top: 50px;
+margin-left: 100px;
+border-radius: 100%;
+width: 260px;
+}
+.datos h3{
+margin-top: 20px;
+color: #f9f9f9;
+text-align: center;
+}
+.datos h2{  
+  color: #f9f9f9;
+  text-align: center;
+}
+.datos p{
+font-size: 13px;
+font-weight: 100;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+color: #f9f9f9;
+}
+.descripcion-utn{
+text-align: center;
+margin-top: 28px;
+}
+.descripcion-redes{
+margin-top: 30px;
+margin-bottom: 50px;
+}
+.titulo-tecnologias h1{
+size:60px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+background-color: #de744c;
+padding-bottom: 10px;
+}
+.descripcion-tecnologias{
+color: #f9f9f9;
+text-align: center;
+background-color: #141414;
+padding-top: 50px;
+font-weight: 200;
+font-size: 14px;
+}
+.descripcion-idiomas{
+text-align: center;
+color: #f9f9f9;
+font-size: 40px;
+background-color: #141414;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.descripcion-idiomas h1{
+margin-bottom: 40px;
+background-color: #de744c;
+color: #141414;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 800;
+ }
+ .descripcion-idiomas p{
+  color: #f9f9f9;
+  font-size: small;
+ }
+.descripcion-tecnologias div.col-8{
+  padding-top: 60px;
+}
+.titulo-proyectos h1{
+  margin-top: 50px;
+font-size: 39px;
+font-weight: 800;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+ color: #141414;
+background-color: #de744c;
+  
+}
+.titulo-proyectos h2{
+  margin-top: 50px;
+  padding-top: 35px;
+  text-align: center;
+  color: #f9f9f9;
+}
+.titulo-proyectos p{
+  font-weight: 200;
+  color: #f9f9f9;
+  text-align: center;
+}
+.titulo-proyectos h5{
+  font-weight: 400;
+  text-align: center;
+  color: #f9f9f9;
+}
+.logo-html{
+  margin-top: 100px;
+  margin-left: 80px;
+  border-radius: 250px 250px 250px 250px;
+  background-color:#f9f9f9;
+  width: 200px;
+}
+.logo-css{
+  margin-top: 100px;
+
+  margin-left: 80px;
+
+  width: 200px;
+}
+.logo-javascript{
+  margin-top: 100px;
+
+  margin-left: 80px;
+ border-radius: 200px 200px 200px 200px;
+  background-color: #f9f9f9;
+  width: 200px;
+}
+.logo-mysql{
+  margin-left: 80px;
+  margin-top: 100px;
+
+  width: 200px;
+}
+.logo-angular{
+  margin-left: 80px;
+  margin-top: 40px;
+  width: 200px;
+}
+.logo-java{
+  margin-left: 80px;
+  margin-top: 50px;
+  width: 300px;
+}
